@@ -1,4 +1,4 @@
-# Convert calendar
+# Calendar Converter
 
 ## Features
 - Fast conversion to another date
